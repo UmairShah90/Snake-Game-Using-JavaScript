@@ -1,0 +1,30 @@
+
+.game-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+body{
+    background: lightblue;
+}
+
+#gameCanvas {
+    width: 400px;
+    height: 400px;
+    margin: 40px auto;
+}
+h1{
+    color: red;
+    border-bottom-style: dashed;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 4px black;
+    text-align: center;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    font-style: italic;
+    
+}
